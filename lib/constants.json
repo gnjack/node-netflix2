@@ -34,11 +34,10 @@
   "baseSecureUrl": "https://secure.netflix.com/",
   "baseUrl": "https://www.netflix.com/",
   "loginUrl": "/Login",
-  "manageProfilesUrl": "/ManageProfiles",
   "pathEvaluatorEndpointUrl": "/pathEvaluator",
   "profilesEndpointUrl": "/profiles",
   "ratingHistoryEndpointUrl": "/ratinghistory",
-  "setVideoRatindEndpointUrl": "/setVideoRating",
+  "setVideoRatingEndpointUrl": "/setVideoRating",
   "switchProfileEndpointUrl": "/profiles/switch",
   "yourAccountUrl": "/YourAccount"
 }
